@@ -55,6 +55,7 @@ dependencies:
   flutter_colorpicker:
     git:
       url: https://github.com/pocketshop-app/flutter_colorpicker.git
+      ref: update
 
   # For converting HTML to Quill delta
   markdown: ^7.2.1
